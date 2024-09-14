@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Analyze your favourite Series with NLP
 In this project we are going to analyze a series with NLP and LLMs. We are going to scrape our own dataset, use zero shot classifiers, build our own LLM text classifier, use NER to build a character network and build a charatecter chatbot to chat with your favorite characters. And in the end we are going to put all that in web GUI with Gradio. This NLP project will take your CV to another level. You will learn a lot of NLP skills that is used in the market.
 
@@ -19,3 +20,6 @@ In this project, we have created 5 models, each containing the code for a differ
 Before running the code in this project, make sure you have installed all packages in the requirements.txt by running
 
 ```pip install -r requirements.txt```
+=======
+# Nlp_Analyze_Series
+>>>>>>> 2cc01b2bf12e1c305341be3db2ac4e4bac81a8cc
